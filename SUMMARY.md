@@ -13,14 +13,10 @@
 * [Platform Overview](basics/core-concepts.md)
 * [Automation Workflows](basics/automation-workflows.md)
 * [Project Structure](basics/project-structure.md)
-* [Security & Permissions](basics/security.md)
 
 ## Creating Projects
 
 * [Create Your First Project](basics/create-project.md)
-* [Project Configuration](basics/project-configuration.md)
-* [Testing & Debugging](basics/testing.md)
-* [Best Practices](basics/best-practices.md)
 
 ## Verified Projects
 

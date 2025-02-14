@@ -1,0 +1,19 @@
+title: TaskMaster AI Documentation
+description: Documentation for the TaskMaster AI automation platform
+theme: jekyll-theme-minimal
+markdown: kramdown
+baseurl: "/website"
+url: "https://christopherlittle.github.io"
+
+# Navigation
+navigation:
+  - title: Getting Started
+    url: /
+  - title: Installation
+    url: /installation/
+  - title: Features
+    url: /features/
+  - title: API Reference
+    url: /api/
+  - title: FAQ
+    url: /faq/ 

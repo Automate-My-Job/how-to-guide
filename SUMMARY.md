@@ -1,17 +1,36 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Automate-My-Job.com Documentation](README.md)
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Installation Guide](getting-started/installation.md)
+* [Quick Setup](getting-started/quick-setup.md)
+* [First Steps](getting-started/first-steps.md)
 
-## Basics
+## Core Concepts
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Platform Overview](basics/core-concepts.md)
+* [Automation Workflows](basics/automation-workflows.md)
+* [Project Structure](basics/project-structure.md)
+* [Security & Permissions](basics/security.md)
+
+## Creating Projects
+
+* [Create Your First Project](basics/create-project.md)
+* [Project Configuration](basics/project-configuration.md)
+* [Testing & Debugging](basics/testing.md)
+* [Best Practices](basics/best-practices.md)
+
+## Verified Projects
+
+* [About Verified Projects](basics/verified-projects.md)
+* [Submit Your Project](basics/submit-project.md)
+* [Project Guidelines](basics/project-guidelines.md)
+
+## Resources
+
+* [Community Forum](https://community.automate-my-job.com)
+* [API Reference](basics/api-reference.md)
+* [FAQs](basics/faqs.md)
+* [Support](basics/support.md)

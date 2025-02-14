@@ -21,12 +21,9 @@
 ## Verified Projects
 
 * [About Verified Projects](basics/verified-projects.md)
-* [Submit Your Project](basics/submit-project.md)
-* [Project Guidelines](basics/project-guidelines.md)
 
 ## Resources
 
 * [Community Forum](https://community.automate-my-job.com)
-* [API Reference](basics/api-reference.md)
 * [FAQs](basics/faqs.md)
 * [Support](basics/support.md)
